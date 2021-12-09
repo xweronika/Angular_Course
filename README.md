@@ -1,5 +1,8 @@
 # Angular Course
 8 hours Angular course from "Zacznij programować". Implementation of the to do list app.
+
+![image](https://user-images.githubusercontent.com/44413511/145421020-c4750da5-ccce-4956-93d9-3a0e87550a21.png)
+
 _______________________________________________________________
 
 
