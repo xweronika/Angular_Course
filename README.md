@@ -1,5 +1,5 @@
-# Angular_Exercises
-Angular exercises to learn.
+# Angular Course
+8 hours Angular course from "Zacznij programować". Implementation of the to do list app.
 _______________________________________________________________
 
 
